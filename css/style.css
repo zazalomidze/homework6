@@ -86,25 +86,32 @@ button {
     border-radius: 10px;
 
 }
+
 /* footer */
-footer{
-background-color: #284069;
-padding: 48px 643px;
+footer {
+    background-color: #284069;
+    padding: 48px 643px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
-.footer_title{
+
+.footer_title {
     font-size: 32px;
     color: #FFFFFF;
 
 }
-.footer_nav{
+
+.footer_nav {
     margin-top: 24px;
 }
-.footer_ul{
+
+.footer_ul {
     display: flex;
-    column-gap: 32px;
-   
+    column-gap: 30px;
 }
-.footer_icon{
+
+.footer_icon {
     font-size: 18px;
     color: #F56013;
 }
