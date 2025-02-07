@@ -1,0 +1,23 @@
+.container {
+    background-color: aquamarine;
+    max-width: 1440px;
+    width: 100%;
+    margin: auto;
+}
+
+header {
+    background-color: #284069;
+    width: 1440px;
+    padding: 54px 98px;
+}
+
+
+.fa-plane {
+    color: #F56013;
+    /* width: 54px; */
+    /* height: 54px; */
+    font-size: 64px;
+    background-color: white;
+
+
+}
